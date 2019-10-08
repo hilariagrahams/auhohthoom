@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theocuequ.qqqww.com/sitemap.xml
